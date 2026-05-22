@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Belleville Ontario
+
+> Geotechnical engineering services in Belleville Ontario, Canada.
+
+## Services
+- [Anchors](https://belleville-ontario.geotechnical-engineering.org/anchors/)
+- [Atterberg Limits](https://belleville-ontario.geotechnical-engineering.org/atterberg-limits/)
+- [Cbr Road](https://belleville-ontario.geotechnical-engineering.org/cbr-road/)
+- [Cpt Test](https://belleville-ontario.geotechnical-engineering.org/cpt-test/)
+- [Deep Excavations](https://belleville-ontario.geotechnical-engineering.org/deep-excavations/)
+- [Excavation Monitoring](https://belleville-ontario.geotechnical-engineering.org/excavation-monitoring/)
+- [Excavations](https://belleville-ontario.geotechnical-engineering.org/excavations/)
+- [Flexible Pavement](https://belleville-ontario.geotechnical-engineering.org/flexible-pavement/)
+- [Footings](https://belleville-ontario.geotechnical-engineering.org/footings/)
+- [Foundations](https://belleville-ontario.geotechnical-engineering.org/foundations/)
+- [Grain Size](https://belleville-ontario.geotechnical-engineering.org/grain-size/)
+- [Ground Improvement](https://belleville-ontario.geotechnical-engineering.org/ground-improvement/)
+- [Grouting](https://belleville-ontario.geotechnical-engineering.org/grouting/)
+- [In Situ Permeability](https://belleville-ontario.geotechnical-engineering.org/in-situ-permeability/)
+- [Investigation](https://belleville-ontario.geotechnical-engineering.org/investigation/)
+- [Lab In Situ](https://belleville-ontario.geotechnical-engineering.org/lab-in-situ/)
+- [Laboratory](https://belleville-ontario.geotechnical-engineering.org/laboratory/)
+- [Liquefaction](https://belleville-ontario.geotechnical-engineering.org/liquefaction/)
+- [Masw](https://belleville-ontario.geotechnical-engineering.org/masw/)
+- [Mat Foundations](https://belleville-ontario.geotechnical-engineering.org/mat-foundations/)
+- [Piles](https://belleville-ontario.geotechnical-engineering.org/piles/)
+- [Proctor Tests](https://belleville-ontario.geotechnical-engineering.org/proctor-tests/)
+- [Resistivity](https://belleville-ontario.geotechnical-engineering.org/resistivity/)
+- [Retaining Walls](https://belleville-ontario.geotechnical-engineering.org/retaining-walls/)
+- [Rigid Pavement](https://belleville-ontario.geotechnical-engineering.org/rigid-pavement/)
+- [Road Geotechnics](https://belleville-ontario.geotechnical-engineering.org/road-geotechnics/)
+- [Sand Cone Density](https://belleville-ontario.geotechnical-engineering.org/sand-cone-density/)
+- [Seismic](https://belleville-ontario.geotechnical-engineering.org/seismic/)
+- [Seismic Isolation](https://belleville-ontario.geotechnical-engineering.org/seismic-isolation/)
+- [Seismic Microzonation](https://belleville-ontario.geotechnical-engineering.org/seismic-microzonation/)
+- [Seismic Refraction](https://belleville-ontario.geotechnical-engineering.org/seismic-refraction/)
+- [Slope Stability](https://belleville-ontario.geotechnical-engineering.org/slope-stability/)
+- [Slopes](https://belleville-ontario.geotechnical-engineering.org/slopes/)
+- [Soft Ground Tunnels](https://belleville-ontario.geotechnical-engineering.org/soft-ground-tunnels/)
+- [Spt Drilling](https://belleville-ontario.geotechnical-engineering.org/spt-drilling/)
+- [Stone Columns](https://belleville-ontario.geotechnical-engineering.org/stone-columns/)
+- [Test Pits](https://belleville-ontario.geotechnical-engineering.org/test-pits/)
+- [Triaxial](https://belleville-ontario.geotechnical-engineering.org/triaxial/)
+- [Vibrocompaction](https://belleville-ontario.geotechnical-engineering.org/vibrocompaction/)
+
+## Contact
+- Website: https://belleville-ontario.geotechnical-engineering.org/
+
+## About
+This site provides geotechnical engineering services in Belleville Ontario, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
